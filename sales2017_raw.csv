@@ -1,5 +1,3 @@
-,Sales data from an e-commerce store // The company wants to have the sales analyzed including promotions and delivery time,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
 order_id (unique),product_id,column3,store_id,order_date,order_date_2,sales,revenue,stock,price,promo_type_1,promo_bin_1,promo_type_2,promo_bin_2,promo_discount_2,delivery_date_format1,delivery_date_format2
 ,,,,,,,,,,,,,,,,
 1,P0258,,S0008,1/2/2017,2-Jan-17,0 sales,0,5,6.5,PR14,,PR03,,NA,1/5/2017,5/1/2017
